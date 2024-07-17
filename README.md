@@ -1,3 +1,3 @@
 # Практическая работа №1: "Оно тебе надо" от Яндекс практикум
-[Ссылка на проект](https://github.com/Nickolaussss/ono-tebe-nado)
+<!-- https://github.com/Nickolaussss/ono-tebe-nado -->
 ### Автор Николай
